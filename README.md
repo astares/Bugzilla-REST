@@ -1,2 +1,2 @@
 # Bugzilla-REST
-Pharo wrapper for Bugzilla REST API
+Pharo wrapper for Bugzilla REST API 
