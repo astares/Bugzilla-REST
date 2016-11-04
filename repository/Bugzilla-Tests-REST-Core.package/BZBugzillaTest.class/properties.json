@@ -1,0 +1,14 @@
+{
+	"category" : "Bugzilla-Tests-REST-Core-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 11/5/2016 00:42",
+	"instvars" : [
+		 ],
+	"name" : "BZBugzillaTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
