@@ -1,0 +1,15 @@
+{
+	"category" : "Bugzilla-REST-Core-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 11/5/2016 00:47",
+	"instvars" : [
+		"url",
+		"result" ],
+	"name" : "BZRESTCall",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
