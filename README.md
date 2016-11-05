@@ -9,7 +9,7 @@ To start you need access to a bugzilla server
 BZBugzilla on: 'https://bugzilla.mozilla.org'
 ```
 
-you can also play with the example Bugzilla server from mozilla.org
+you can also play around with the example Bugzilla server from mozilla.org
 
 ```Smalltalk
 BZBugzilla example
