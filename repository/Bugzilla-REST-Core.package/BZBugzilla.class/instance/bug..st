@@ -1,4 +1,4 @@
-private - accessing
+accessing
 bug: aNumber
 	| url res |
 	url := self restURL, '/bug/', aNumber asString.

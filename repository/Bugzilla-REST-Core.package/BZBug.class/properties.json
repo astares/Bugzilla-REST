@@ -8,6 +8,7 @@
 	"instvars" : [
 		"summary",
 		"status",
+		"creator",
 		"assignedTo" ],
 	"name" : "BZBug",
 	"pools" : [
