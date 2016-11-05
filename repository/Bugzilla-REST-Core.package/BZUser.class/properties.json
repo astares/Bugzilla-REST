@@ -1,0 +1,16 @@
+{
+	"category" : "Bugzilla-REST-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 11/5/2016 01:22",
+	"instvars" : [
+		"email",
+		"name",
+		"realName" ],
+	"name" : "BZUser",
+	"pools" : [
+		 ],
+	"super" : "BZBugzillaItem",
+	"type" : "normal" }

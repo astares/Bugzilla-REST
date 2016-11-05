@@ -1,0 +1,1 @@
+Common superclass for bugzilla related items

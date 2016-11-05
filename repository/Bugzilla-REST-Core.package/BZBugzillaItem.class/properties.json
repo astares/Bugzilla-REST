@@ -1,0 +1,14 @@
+{
+	"category" : "Bugzilla-REST-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 11/5/2016 01:22",
+	"instvars" : [
+		"id" ],
+	"name" : "BZBugzillaItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
