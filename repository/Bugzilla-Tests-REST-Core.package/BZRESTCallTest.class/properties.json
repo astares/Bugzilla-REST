@@ -1,0 +1,14 @@
+{
+	"category" : "Bugzilla-Tests-REST-Core-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 11/5/2016 01:05",
+	"instvars" : [
+		 ],
+	"name" : "BZRESTCallTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
