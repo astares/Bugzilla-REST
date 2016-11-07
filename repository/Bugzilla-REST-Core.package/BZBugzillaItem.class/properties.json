@@ -7,7 +7,7 @@
 	"commentStamp" : "TorstenBergmann 11/5/2016 01:22",
 	"instvars" : [
 		"id" ],
-	"name" : "BZBugzillaItem",
+	"name" : "BzBugzillaItem",
 	"pools" : [
 		 ],
 	"super" : "Object",

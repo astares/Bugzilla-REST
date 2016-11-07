@@ -9,8 +9,8 @@
 		"email",
 		"name",
 		"realName" ],
-	"name" : "BZUser",
+	"name" : "BzUser",
 	"pools" : [
 		 ],
-	"super" : "BZBugzillaItem",
+	"super" : "BzBugzillaItem",
 	"type" : "normal" }

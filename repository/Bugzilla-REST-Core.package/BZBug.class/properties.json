@@ -10,8 +10,8 @@
 		"status",
 		"creator",
 		"assignedTo" ],
-	"name" : "BZBug",
+	"name" : "BzBug",
 	"pools" : [
 		 ],
-	"super" : "BZBugzillaItem",
+	"super" : "BzBugzillaItem",
 	"type" : "normal" }

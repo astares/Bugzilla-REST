@@ -1,4 +1,4 @@
 tests
 testRetrieveVersion
 
-	self assert: BZBugzilla example version notEmpty
+	self assert: BzBugzilla example version notEmpty

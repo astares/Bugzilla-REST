@@ -7,7 +7,7 @@
 	"commentStamp" : "TorstenBergmann 11/5/2016 01:05",
 	"instvars" : [
 		 ],
-	"name" : "BZRESTCallTest",
+	"name" : "BzRESTCallTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

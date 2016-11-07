@@ -7,7 +7,7 @@
 	"commentStamp" : "TorstenBergmann 11/5/2016 00:42",
 	"instvars" : [
 		 ],
-	"name" : "BZBugzillaTest",
+	"name" : "BzBugzillaTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

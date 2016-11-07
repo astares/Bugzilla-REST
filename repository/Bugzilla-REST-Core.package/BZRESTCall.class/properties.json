@@ -8,7 +8,7 @@
 	"instvars" : [
 		"url",
 		"result" ],
-	"name" : "BZRESTCall",
+	"name" : "BzRESTCall",
 	"pools" : [
 		 ],
 	"super" : "Object",

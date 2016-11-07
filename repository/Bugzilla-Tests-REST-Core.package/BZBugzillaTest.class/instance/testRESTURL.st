@@ -3,7 +3,7 @@ testRESTURL
 
 	|url issueTracker |
 	url := 'https://bugzilla.mozilla.org/rest'.
-	issueTracker := BZBugzilla example.
+	issueTracker := BzBugzilla example.
  
 	self assert: issueTracker restURL equals: url
 	

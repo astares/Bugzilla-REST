@@ -7,7 +7,7 @@
 	"commentStamp" : "TorstenBergmann 11/5/2016 01:46",
 	"instvars" : [
 		 ],
-	"name" : "BZUserTest",
+	"name" : "BzUserTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

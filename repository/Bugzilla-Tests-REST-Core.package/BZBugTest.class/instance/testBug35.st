@@ -2,7 +2,7 @@ tests
 testBug35
 
 	| bug |
-	bug := BZBugzilla example bug: 35.
+	bug := BzBugzilla example bug: 35.
 	
 	self 
 		assert: bug id equals: 35;

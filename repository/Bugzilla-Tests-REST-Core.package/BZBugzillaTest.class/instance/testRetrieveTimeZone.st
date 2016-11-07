@@ -1,4 +1,4 @@
 tests
 testRetrieveTimeZone
 
-	self assert: BZBugzilla example timezone notEmpty
+	self assert: BzBugzilla example timezone notEmpty
