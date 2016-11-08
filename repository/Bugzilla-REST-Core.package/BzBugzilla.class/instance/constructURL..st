@@ -4,7 +4,7 @@ constructURL: actionString
 		actionString  - the action part of the REST method
 	"
 	|url|
-	url := self restURL, actionString.
+	url := self restURL, '/', actionString.
 	accessToken notEmpty ifTrue: [ url := url, '?token=', accessToken ].
 	^url
 	
