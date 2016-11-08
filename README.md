@@ -6,24 +6,24 @@
 To start you need access to a bugzilla server
 
 ```Smalltalk
-BZBugzilla on: 'https://bugzilla.mozilla.org'
+BzBugzilla on: 'https://bugzilla.mozilla.org'
 ```
 
 you can also play around with the example Bugzilla server from mozilla.org
 
 ```Smalltalk
-BZBugzilla example
+BzBugzilla example
 ```
 
 ## Retrieving a bug
 ```Smalltalk
-BZBugzilla example bug: 35
+BzBugzilla example bug: 35
 ```
 returns a new bug with the given bug number.
 
 ## Retrieving a user
 
 ```Smalltalk
-(BZBugzilla example bug: 35) creator
+(BzBugzilla example bug: 35) creator
 ```
 
