@@ -1,7 +1,9 @@
 accessing
 user: aNumber
-	| url res |
+	| url res users |
 	url := self constructURL: '/user/', aNumber asString.
 	res := BzRESTCall call: url.
 	res hasError ifTrue: [ ^nil ].
-	^BzUser fromDictionary: (res resultAt: 'users') first
+	users := res resultAt: 'users'.
+	users isEmpty ifTrue: [ ^nil ].
+	^BzUser fromDictionary: users first
