@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 1/30/2017 10:27",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfBugzilla",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfBugzilla",
+	"type" : "normal"
+}

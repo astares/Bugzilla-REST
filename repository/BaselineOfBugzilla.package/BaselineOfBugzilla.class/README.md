@@ -1,0 +1,1 @@
+Baseline for Bugzilla project
